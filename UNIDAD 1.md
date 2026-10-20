@@ -5,5 +5,3 @@ Quiero aprender acerca de las redes, en tratar de seguir mejorando en hacer los 
 ### Actividad 1.2
 ¿Qué tan importantes consideras las redes informáticas?
 Pienso que son importantes para las empresas, también para diferentes programas y códigos, pero también lo considero importante para diferentes situaciones del día a día como el internet, la educación, la comunicación, la nube y la seguridad
-
-
